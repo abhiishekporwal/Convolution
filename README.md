@@ -14,4 +14,8 @@ Checkout our demo notebook for loading checkpoints and performing inference <br>
 
 source: https://github.com/notAI-tech/LogoDet
 
-!(https://raw.githubusercontent.com/abhiishekporwal/LogoDetection/master/input_samples/lg10.jpg)
+##Input Image:
+<img src ='https://raw.githubusercontent.com/abhiishekporwal/LogoDetection/master/input_samples/lg10.jpg'>
+
+##Output Image:
+<img src ='https://raw.githubusercontent.com/abhiishekporwal/LogoDetection/master/output_img/lg10_prediction.jpg'>
