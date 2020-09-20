@@ -5,7 +5,7 @@ I have prepared a Demo file "LogoDetection.ipynb" which contains my approach to 
 
 To run the LogoDetection.ipynb file. Make sure you are using colab notebook.
 
-    • Run cells of the given file by using shift+enter  or ctrl+enter.
+    • Run cells of the given file by using shift+enter or ctrl+enter.
     • After loading of model, upload all the images provided in input_samples folder or you can use your own images. 
       You can upload as many images. This will take sometime.
     • After uploading your images, run all the remaining cells.
