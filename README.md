@@ -13,9 +13,10 @@ To run the LogoDetection.ipynb file. Make sure you are using colab notebook.
 Checkout our demo notebook for loading checkpoints and performing inference <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pcK8KWIdBy-ZiiEbmFBIGojWi6ru-6Gq?usp=sharing)<br>
 
 source: https://github.com/notAI-tech/LogoDet
-
-## Input Image:
+# Example:
+Successfully detected all the logos of pepsi.
+### Input Image:
 <img src ='https://raw.githubusercontent.com/abhiishekporwal/LogoDetection/master/input_samples/lg10.jpg'>
 
-## Output Image:
+### Output Image:
 <img src ='https://raw.githubusercontent.com/abhiishekporwal/LogoDetection/master/output_img/lg10_prediction.jpg'>
