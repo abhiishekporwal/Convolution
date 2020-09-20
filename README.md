@@ -10,6 +10,8 @@ To run the LogoDetection.ipynb file. Make sure you are using colab notebook.
       You can upload as many images. This will take sometime.
     • After uploading your images, run all the remaining cells.
 
-Demo: https://colab.research.google.com/drive/1pcK8KWIdBy-ZiiEbmFBIGojWi6ru-6Gq?usp=sharing
+Checkout our demo notebook for loading checkpoints and performing inference <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pcK8KWIdBy-ZiiEbmFBIGojWi6ru-6Gq?usp=sharing)<br>
+[Config file](Config/cascade_mask_rcnn_hrnetv2p_w32_20e.py) for the Models<br>
+
 source: https://github.com/notAI-tech/LogoDet
 
