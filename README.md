@@ -1,4 +1,4 @@
-# Logo Detection (in progress..............)
+# Logo Detection
 This repo is useful for the detection of logo(s) in an image. Logo can be either in the form symbol or caligraphic.
 
 I have prepared a Demo file "LogoDetection.ipynb" which contains my approach to solve this problem. I had used google colab platform. 
@@ -10,9 +10,9 @@ To run the LogoDetection.ipynb file. Make sure you are using colab notebook.
       You can upload as many images. This will take sometime.
     • After uploading your images, run all the remaining cells.
 
-Checkout our demo notebook for loading checkpoints and performing inference <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pcK8KWIdBy-ZiiEbmFBIGojWi6ru-6Gq?usp=sharing)<br>
+Checkout our demo notebook for loading checkpoints and performing inference 
+<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pcK8KWIdBy-ZiiEbmFBIGojWi6ru-6Gq?usp=sharing)<br>
 
-source: https://github.com/notAI-tech/LogoDet
 # Example:
 Successfully detected all the logos of pepsi.
 ### Input Image:
@@ -20,3 +20,5 @@ Successfully detected all the logos of pepsi.
 
 ### Output Image:
 <img src ='https://raw.githubusercontent.com/abhiishekporwal/LogoDetection/master/output_img/lg10_prediction.jpg'>
+
+source: https://github.com/notAI-tech/LogoDet
